@@ -1,0 +1,18 @@
+{
+  "global": {
+    "Light Pink": {
+      "value": "#FFE8F6",
+      "type": "color"
+    },
+    "Dark Pink": {
+      "value": "#A40066",
+      "type": "color"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
